@@ -113,3 +113,7 @@ remove
 $("div").
 empty
 ();//Use a jQuery method to only remove the child elements of a <div> element.
+
+$("div").
+remove
+(".test, .demo"); //Use a jQuery method to remove all <div> elements with class="test" and class="demo".
