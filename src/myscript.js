@@ -87,3 +87,7 @@ $("div").text(); //Use a jQuery method to return the text content of a <div> ele
 $("div").
 html
 ();//Use a jQuery method to return the HTML content of a <div> element.
+
+$("input").
+val
+();//Use a jQuery method to return the value of an input field.
