@@ -104,3 +104,9 @@ text
 $("input").
 val
 ("John Doe"); //Use a jQuery method to change the value of an input field to "John Doe".
+
+
+$("img").
+attr
+("src", "myimage.jpg"); //Use a jQuery method to change the value of an image's src attribute to "myimage.jpg".
+
