@@ -126,6 +126,6 @@ $("div").animate({
 
 $("div").animate({
   
-    opacity : '  0.4 ',  height: ' 500px ', width: '500 px'});
+    opacity : '  0.4 ',  height: ' 500px ', width: '500 px'});//Use the animate() method to set the following CSS properties for <div>:
 
 
