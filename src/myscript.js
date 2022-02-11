@@ -159,3 +159,14 @@ css
   "padding": "15px"}); //Use the css() method to set the following styles for <p>:
 
  // Green background color, white text color, 25 pixels font size and a padding of 15 pixels.//
+
+ $("div").
+height
+(
+500
+).
+width
+(
+500
+);//Use jQuery methods to set the height and width of <div> to 500 pixels.
+
