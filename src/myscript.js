@@ -209,3 +209,10 @@ siblings
 ();//Use a jQuery method to get all siblings elements of an <h2> element.
 
 
+$("div").
+first
+();//Use a jQuery method to get the first <div> element in the document.
+
+
+
+
