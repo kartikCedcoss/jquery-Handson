@@ -173,3 +173,7 @@ width
 $("div").
 height
 ()//Use a jQuery method to get the height of a <div> element, excluding padding, border and margin.
+
+$("div").
+innerHeight
+()//Use a jQuery method to get the height of a <div> element, including padding (not border and margin).
