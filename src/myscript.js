@@ -128,3 +128,7 @@ $("p").
 addClass
 ("important test"); //Use a jQuery method to add both the "important" and "test" class to a <p> element.
 
+$("p").
+removeClass
+("important"); //Use a jQuery method to remove the "important" class from a <p> element.
+
