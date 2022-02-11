@@ -1,5 +1,5 @@
 $(document).ready(function(){
     
-      $("#test").hide();
+      $("*").hide();
     
-  }); //Use the correct selector to hide an element with id="test".
+  }); //Use the correct selector to hide all elements in the document.
