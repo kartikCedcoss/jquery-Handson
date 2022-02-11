@@ -84,35 +84,19 @@ $("div").stop(); //Use a jQuery method to stop the animation effect of a <div> e
 
 $("div").text(); //Use a jQuery method to return the text content of a <div> element
 
-$("div").
-html
-();//Use a jQuery method to return the HTML content of a <div> element.
+$("div").html(); //Use a jQuery method to return the HTML content of a <div> element.
 
-$("input").
-val
-();//Use a jQuery method to return the value of an input field.
+$("input").val(); //Use a jQuery method to return the value of an input field.
 
-$("a").
-attr
-("href");//Use a jQuery method to return the URL address of a link.
+$("a").attr("href"); //Use a jQuery method to return the URL address of a link.
 
-$("div").
-text
-("Hello World");//Use a jQuery method to change the text of a <div> element to "Hello World".
+$("div").text("Hello World"); //Use a jQuery method to change the text of a <div> element to "Hello World".
 
+$("input").val("John Doe"); //Use a jQuery method to change the value of an input field to "John Doe".
 
-$("input").
-val
-("John Doe"); //Use a jQuery method to change the value of an input field to "John Doe".
+$("img").attr("src", "myimage.jpg"); //Use a jQuery method to change the value of an image's src attribute to "myimage.jpg".
 
+$("#myLink").text("Demo");
+$("#myLink").attr("href", "https://www.demo.com"); //Use jQuery to change the text of a link to "Demo",and change the value of href's attribute value to "www.demo.com".
 
-$("img").
-attr
-("src", "myimage.jpg"); //Use a jQuery method to change the value of an image's src attribute to "myimage.jpg".
-
-
-$("#myLink").
-text
-("Demo");
-$("#myLink").attr
-("href", "https://www.demo.com"); //Use jQuery to change the text of a link to "Demo",and change the value of href's attribute value to "www.demo.com".
+$("p").append("YES!"); //Use a jQuery method to insert the text "YES!" at the end of a <p> element.
