@@ -57,3 +57,9 @@ $("p").click(function(){
   show
   ();
   });//Use a jQuery method to show a <p> element.
+
+  $("button").click(function(){
+    $("p").
+  toggle
+  ();
+  });//Use a jQuery method to toggle between hiding and showing a <p> element.
