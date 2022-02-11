@@ -72,3 +72,11 @@ fadeOut
 (
 "slow"
 );//Use a jQuery method to fade out a <div> element.
+
+$("div").
+fadeTo
+(
+"slow"
+, 
+0.2
+);//Use a jQuery method to fade a <div> element to an opacity of "0.2".
