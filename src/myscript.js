@@ -124,3 +124,8 @@ $("div").animate({
         : '500px'});//Use the animate() method to set the height of a <div> element to 500 pixels.
 
 
+$("div").animate({
+  
+    opacity : '  0.4 ',  height: ' 500px ', width: '500 px'});
+
+
