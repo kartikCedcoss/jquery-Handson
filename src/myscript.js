@@ -100,3 +100,7 @@ $("#myLink").text("Demo");
 $("#myLink").attr("href", "https://www.demo.com"); //Use jQuery to change the text of a link to "Demo",and change the value of href's attribute value to "www.demo.com".
 
 $("p").append("YES!"); //Use a jQuery method to insert the text "YES!" at the end of a <p> element.
+
+$("p").
+prepend
+("YES!");//Use a jQuery method to insert the text "YES!" at the beginning of a <p> element.
