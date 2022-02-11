@@ -200,3 +200,9 @@ $("div").
 children
 ();//Use a jQuery method to get all direct children of a <div> element.
 
+$("div").
+find
+("span");//Use a jQuery method to get all <span> elements that are descendants of <div>
+
+
+
