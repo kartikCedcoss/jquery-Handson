@@ -43,3 +43,11 @@ $("p").click(function(){
   hide
   ();
   });//Use a jQuery method to hide a <p> element when it is clicked on.
+
+  $("p").click(function(){
+    $(this).
+  hide
+  (
+  "slow"
+  );
+  });//Use a jQuery method to hide a <p> element when it is clicked on.
