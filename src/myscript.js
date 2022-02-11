@@ -191,3 +191,7 @@ true
 $("span").
 parent
 ();//Use a jQuery method to get the direct parent of a <span> element.
+
+$("span").
+parents
+();//Use a jQuery method to get all ancestors of a <span> element.
